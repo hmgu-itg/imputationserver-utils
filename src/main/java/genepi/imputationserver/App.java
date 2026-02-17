@@ -12,9 +12,9 @@ public class App {
 
 	public static final String APP = "imputationserver-utils";
 
-	public static final String VERSION = "1.5.3";
+	public static final String VERSION = "1.0.0";
 
-	public static final String URL = "https://github.com/genepi/imputationserver-utils";
+	public static final String URL = "https://github.com/hmgu-itg/imputationserver-utils";
 
 	public static final String COPYRIGHT = "(c) 2023-2025 Lukas Forer and Sebastian Schönherr";
 
